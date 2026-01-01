@@ -60,7 +60,4 @@ Firebase · MongoDB · Supabase · Amplify Datastore · Clerk
 📧 **abdelkrim.tiza@outlook.com**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/abdelkrimtiza/)**  
 
----
-
-Thanks for visiting — happy coding! 🚀
 
