@@ -13,6 +13,7 @@ I'm a full-stack developer passionate about crafting high-performance, user-cent
 - ☁️ Cloud development (AWS)  
 - 🎮 AR/VR development with Unity  
 - ☕ Java plugin development for OmegaT  
+- 💳 Subscription & payment integration (Stripe, RevenueCat)  
 
 I enjoy creating modern, production-ready solutions with **Next.js**, **React**, **Tailwind**, **FastAPI**, **Flask**, **Flutter**, **Unity 3D**, and AWS cloud technologies.
 
@@ -38,6 +39,10 @@ React · Next.js · Flask · FastAPI · Flutter · Unity3D
 ### **Databases & Services**
 Firebase · MongoDB · Supabase · Amplify Datastore · Clerk
 
+### **Payments & Subscriptions**
+- **Stripe**  
+- **RevenueCat**
+
 ---
 
 ## 🧩 Notable Projects
@@ -58,3 +63,4 @@ Firebase · MongoDB · Supabase · Amplify Datastore · Clerk
 ---
 
 Thanks for visiting — happy coding! 🚀
+
