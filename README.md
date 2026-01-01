@@ -1,32 +1,60 @@
-# Hello, I'm krm0000 👋
+# Hello, I'm **krm0000** 👋  
 
-Welcome to my GitHub profile! This is my digital playground where I build web, mobile, and AI-powered apps.
-
-## 🚀 About Me
-I'm a full-stack developer passionate about creating fast and user-friendly applications. I work with:
-
-- 🧠 AI tools
-- ⚡ CI/CD
-- 🖥️ SaaS products
-
-I use **Next.js**, **React**, **Tailwind CSS**, **FastAPI**, **Flask**, and more.
-
-## 🔧 Tech Stack
-**Languages**: JavaScript, TypeScript, Dart, C#. 
-**Frameworks**: React, Next.js, Flask, Flutter, Unity3d  
-**Tools**: Firebase, MongoDB, Amplify, Supabase, Clerk
-
-## 🧩 Notable Projects
-- 🔖 **Tasuqilt APP** – AI-powered Cloud translation mobile App
-- 🏥 **Tasuqilt Website** –AI-powered Cloud translation website
-- 🌐 **ACT Solutions** – SaaS platform for Ai/Cloud products
-
-
-
-📧 abdelkrim.tiza@outlook.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdelkrimtiza/)  
-
+Welcome to my GitHub profile — a space where I build web, mobile, AR/VR, cloud, and AI-powered applications. I love turning ideas into fast, scalable, and intuitive digital experiences.
 
 ---
 
-Thanks for stopping by! 😊
+## 🚀 About Me  
+I'm a full-stack developer passionate about crafting high-performance, user-centric apps across multiple platforms. My work spans:
+
+- 🧠 AI-powered applications  
+- ⚡ CI/CD automation  
+- 🖥️ SaaS platforms  
+- ☁️ Cloud development (AWS)  
+- 🎮 AR/VR development with Unity  
+- ☕ Java plugin development for OmegaT  
+
+I enjoy creating modern, production-ready solutions with **Next.js**, **React**, **Tailwind**, **FastAPI**, **Flask**, **Flutter**, **Unity 3D**, and AWS cloud technologies.
+
+---
+
+## 🔧 Tech Stack
+
+### **Languages**
+JavaScript · TypeScript · Dart · C# · Java
+
+### **Frameworks & Libraries**
+React · Next.js · Flask · FastAPI · Flutter · Unity3D
+
+### **Cloud & DevOps**
+- **AWS Amplify**  
+- **AWS Cognito**  
+- **AWS Lambda**  
+- **Amazon S3**  
+- **AWS Storage Browser**  
+- GitHub Actions  
+- Docker  
+
+### **Databases & Services**
+Firebase · MongoDB · Supabase · Amplify Datastore · Clerk
+
+---
+
+## 🧩 Notable Projects
+
+- 🌐 **AiCloudTranslation Solutions** – SaaS platform offering AI-powered cloud translation tools and workflow automation  
+- 📱 **Multiplatform Mobile Apps** – Cross-platform development using Flutter  
+- 🌐 **Cloud & AI Web Tools** – Scalable web apps powered by AI and cloud infrastructure  
+- 🎮 **AR/VR Interactive Experiences** – Immersive Unity experiences for creative and practical use cases  
+- 🔌 **OmegaT Java Plugins** – Custom plugins to enhance translation and workflow efficiency  
+
+---
+
+## 📬 Contact Me  
+
+📧 **abdelkrim.tiza@outlook.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/abdelkrimtiza/)**  
+
+---
+
+Thanks for visiting — happy coding! 🚀
